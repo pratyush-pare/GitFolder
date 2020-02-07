@@ -1,5 +1,12 @@
 This is code cr1
 change to test push to remote repo
+--------------------------------------------------
 vbdvsvfsdnbfsbmvfbvs Pratyush
 gfdghfsdffsdf Pare
 change 3 change made by teammate to test rebase 
+--------------------------------------------------
+vbdvsvfsdnbfsbmvfbvs Pare
+gfdghfsdffsdf Pratyush
+change 3 made by local to testb rebase with remote repo
+File2 updated for change3 at local for rebase at remote repo
+I am done...
